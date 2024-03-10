@@ -1,1 +1,1 @@
-Using Bootstrap and Jinja for a website.
+Using Bootstrap, SMTP and Jinja for a website.
